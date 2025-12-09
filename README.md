@@ -19,6 +19,7 @@ https://neon.com/blog/practical-guide-to-database-branching
 
 Data Anomizer Mask: https://neon.com/docs/workflows/data-anonymization
 
+Neon Startup program: 100K USD credits
 
 Frontend: 
 Backend: 
