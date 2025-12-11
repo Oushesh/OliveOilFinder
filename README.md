@@ -1,6 +1,5 @@
 This app is used to find the suppliers of the best olive oil in the neighbourhood
 
-
 Database:
 
 For the begging we will use a neon free: postgres sql file to build it.
@@ -51,3 +50,10 @@ Frontend:
 
 
 Backend: 
+
+* Migrating the Data Read and Write Process using Rust.
+
+Guide: https://neon.com/docs/guides/rust
+
+Needed: Popular Rust Drivers: rust-postgres, a synchronous driver or tokio-postgres
+
