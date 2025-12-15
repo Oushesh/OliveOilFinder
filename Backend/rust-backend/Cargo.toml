@@ -9,10 +9,19 @@ openssl = "0.10.75"
 postgres = "0.19.12"
 postgres-openssl = "0.5.2"
 
-
-## Added new dependencies: 
-actix-wb = 
-
+####### 
+acticx-web = "4.9.0"
+diesel = {version="2.2.2", features = ["r2d2","postgres"]}
+dotenv = "0.15.0"
+env_logger = "0.11.5"
+r2d2 = "0.8.10"
+serde = {version="1.0.208",features = ["derive"]}
+log = "0.4.22"
+jsonwebtoken = "9.3.0"
+actix-cors = "0.7.0"
+sha2 = "0.11.0-pre.4"
+hex = "0.4.3"
+chrono = "0.4.38"
 
 
 [[bin]]
