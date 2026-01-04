@@ -8,6 +8,7 @@ dotenvy = "0.15.7"
 openssl = "0.10.75"
 postgres = "0.19.12"
 postgres-openssl = "0.5.2"
+argon2 = "0.5"
 
 ####### 
 acticx-web = "4.9.0"
